@@ -1,6 +1,4 @@
 # Countdown app
-#personal/countdown
-#ui
 
 
 ## Introduction
